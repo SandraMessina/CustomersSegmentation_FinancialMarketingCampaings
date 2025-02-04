@@ -1,0 +1,2 @@
+# CustomersSegmentation_FinancialMarketingCampaings
+Customer Segmentation based on financial behaviours to set targeted marketing campaigns
